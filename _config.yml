@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Zeldon Tay # add your name
 author-img: bert_profile.jpg # add your photo
-about-author: Because the stochasticity of learning in this century requires documenting, thus I add here a setup. (I like dev work and do data science stuff in me job). # add description
+about-author: Because the stochasticity of learning in this century requires documenting, thus I add here a simple setup. <p>(I like dev work and do data science stuff in me job).</p> # add description
 social-twitter: https://twitter.com/ZeldonTay # add your Twitter handle
 social-facebook: https://www.facebook.com/yuzhong.tay # add your Facebook handle
 social-github: zeldon # add your Github handle
