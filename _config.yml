@@ -1,8 +1,6 @@
-title: Hello, world! I'm David Freeman
+title: Zeldon Git Blog v01
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A test site for Jekyll based blogging on Github.
 permalink: ':title/'
 baseurl: "/blog_v01" # the subpath of your site, e.g. /blog
 url: "https://zeldon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -12,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Zeldon Tay # add your name
 author-img: bert_profile.jpg # add your photo
 about-author: Because the stochasticity of learning in this century requires documenting, thus I add here a setup. (I like dev work and do data science stuff in me job). # add description
-social-twitter: # add your Twitter handle
+social-twitter: https://twitter.com/ZeldonTay # add your Twitter handle
 social-facebook: https://www.facebook.com/yuzhong.tay # add your Facebook handle
 social-github: zeldon # add your Github handle
 social-linkedin: https://www.linkedin.com/in/zeldontayyuzhong/ # add your Linkedin handle
