@@ -10,13 +10,13 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Zeldon Tay # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+author-img: bert_profile.jpg # add your photo
+about-author: Because the stochasticity of learning in this century requires documenting, thus I add here a setup. (I like dev work and do data science stuff in me job). # add description
 social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-facebook: https://www.facebook.com/yuzhong.tay # add your Facebook handle
+social-github: zeldon # add your Github handle
+social-linkedin: https://www.linkedin.com/in/zeldontayyuzhong/ # add your Linkedin handle
+social-email: zeldontay@gmail.com # add your Email address
 
 # Discus
 discus-identifier: zeldon # add your discus identifier
