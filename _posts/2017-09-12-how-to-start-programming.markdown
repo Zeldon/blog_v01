@@ -2,7 +2,7 @@
 layout: post
 title: First Hello Post
 date: 2018-05-27 16:08:00 +0800
-description: # Add post description (optional)
+description: First Post of Hello :) # Add post description (optional)
 img: how-to-start.jpg # Add image post (optional)
 tags: [helloworld] # add tag
 ---
